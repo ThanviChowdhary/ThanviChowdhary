@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Thanvi</h1>
 <h3 align="center">I am a student pursuing my B.Tech degree in CSE at SRM Institute of Science and Technology</h3>
 
-- I’m interested in **Reactjs,Python**
+- I’m currently learning **Reactjs,Python**
 
 - Reach me @**thanvichowdhary10@gmail.com**
 
